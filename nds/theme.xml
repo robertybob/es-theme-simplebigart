@@ -7,11 +7,11 @@
                         <path>./sounds/system.ogg</path>
                 </sound>
 		<image name="background" extra="true">
-			<path>./art/Nintendo-Nintendo64.png</path>
+			<path>./art/Nintendo-NintendoDS.png</path>
 		</image>
 
 		<image name="logo">
-			<path>./art/n64.svg</path>
+			<path>./art/nds.svg</path>
         </image>
 		
 		<helpsystem name="help">
@@ -23,11 +23,11 @@
 
 	<view name="basic, detailed">
 		<image name="background">
-			<path>./art/Nintendo-Nintendo64.png</path>
+			<path>./art/Nintendo-NintendoDS.png</path>
 		</image>
 	
 		<text name="system_name_1" extra="true">
-			<text>Nintendo 64</text>
+			<text>Nintendo DS</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.16</size>
 			<pos>0.527 0</pos>
@@ -38,7 +38,7 @@
 		</text>
 		
 		<image name="logo">
-			<path>./art/n64.svg</path>
+			<path>./art/nds.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.47 0.1</maxSize>
 			<origin>0 0.5</origin>
