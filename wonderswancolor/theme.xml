@@ -7,11 +7,11 @@
 			<path>./sounds/system.ogg</path>
 		</sound>
 		<image name="background" extra="true">
-			<path>./art/Bandai-WonderSwan.png</path>
+			<path>./art/Bandai-WonderSwanColor.png</path>
 		</image>
 
 		<image name="logo">
-			<path>./art/wonderswan.svg</path>
+			<path>./art/wonderswan1.svg</path>
         </image>
 		
 		<helpsystem name="help">
@@ -23,11 +23,11 @@
 
 	<view name="basic, detailed">
 		<image name="background">
-			<path>./art/Bandai-WonderSwan.png</path>
+			<path>./art/Bandai-WonderSwanColor.png</path>
 		</image>
 
 		<text name="system_name_1" extra="true">
-			<text>Bandai</text>
+			<text>Wonderswan</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
@@ -38,7 +38,7 @@
 		</text>
 		
 		<text name="system_name_2" extra="true">
-			<text>Wonderswan</text>
+			<text>Color</text>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.07</pos>
@@ -49,7 +49,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/wonderswan.svg</path>
+			<path>./art/wonderswan2.svg</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.45 0.1</maxSize>
 			<origin>0 0.5</origin>
